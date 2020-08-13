@@ -5,7 +5,9 @@ In this game there are rows of different colour bricks, a ball and a paddle.To p
 it goes down and we lose a chance. If all the bricks are broken within 3 chances, so we win the game.
 
 ## Run application
+```buildoutcfg
 python brickbreaker.py
+```
 
 #### Sharing my youtube link for this game
 https://www.youtube.com/watch?v=aPsuCFv5vBI&t
